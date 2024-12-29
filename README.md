@@ -1,3 +1,5 @@
+![Static Badge](https://img.shields.io/badge/YouTube-red?link=https%3A%2F%2Fwww.youtube.com%2F%40weilher4202)
+
 # FiveM - No More Stunt Jumps
 Removing a lot of stunts and normal jumps on the GTA V map. <br />
 
